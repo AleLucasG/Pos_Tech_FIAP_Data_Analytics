@@ -12,3 +12,5 @@ Os dados utilizados nesta atividade foram obtidos no portal **DATASUS - Informa√
 
 https://datasus.saude.gov.br/informacoes-de-saude-tabnet/
 
+<img width="1904" height="991" alt="image" src="https://github.com/user-attachments/assets/4f8c47ed-5780-46d9-9969-79e7d1b4ecf2" />
+
