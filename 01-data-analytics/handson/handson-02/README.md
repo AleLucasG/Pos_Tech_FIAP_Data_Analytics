@@ -34,4 +34,5 @@ Ajustar a visualização do gráfico, aplicando rotação nas legendas do eixo X
 
 <img width="1912" height="909" alt="image" src="https://github.com/user-attachments/assets/35fe84ac-a3f2-4dc5-a6ee-bd57caad4c8e" />
 
+<img width="1906" height="904" alt="image" src="https://github.com/user-attachments/assets/837c38c9-7777-4326-b2f0-c99a52cb7d5e" />
 
