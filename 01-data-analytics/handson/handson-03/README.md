@@ -18,7 +18,12 @@ https://datasus.saude.gov.br/informacoes-de-saude-tabnet/
 <img width="1916" height="913" alt="image" src="https://github.com/user-attachments/assets/46b8a655-7b27-4594-aa94-7adbb839c7f6" />
 
 
-<img width="1907" height="900" alt="image" src="https://github.com/user-attachments/assets/a8db5017-ae91-4886-9fe8-e87f93089066" />
+<img width="1914" height="910" alt="image" src="https://github.com/user-attachments/assets/738cda79-57db-4177-8498-16142925036c" />
+
+
+<img width="1912" height="904" alt="image" src="https://github.com/user-attachments/assets/e56a37c9-91d4-4035-ba11-0603b49e4169" />
+
+
 
 
 ## 📊 Desafios
