@@ -4,28 +4,28 @@
 
 ### Análise Exploratória de Dados
 
-* Aquisição e leitura de dados reais
-* Primeiras visualizações de dados
-* Manipulação de dados
-* Análise de gráficos e criação de hipóteses
-* Manipulação e interpretação de gráficos
+Aula 1 - Entendendo o problema de negócio    	   
+Aula 2 - Metodologia de projetos de dados    	   
+Aula 3 - Analisando dados com python    	   
+Aula 4 - Criando storytelling com dados.    	   
+Material Complementar
 
 ### Fundamentos de Análise de Dados para Negócios
 
-* Business Analytics e Data-Driven Decision
-* KPIs e métricas de negócio
-* Modelagem dimensional (tabelas fato e dimensão)
-* Técnicas de visualização de dados
-* Construção de painéis
+Aula 1 - Business Analytics e Data-Driven Decision    	   
+Aula 2 - KPIs e Métricas de Negócio: Identificação, definição e cálculo de Indicadores de Desempenho (KPIs)     	   
+Aula 3 - Modelagem dimensional (Tabelas Fato e Dimensão)    	   
+Aula 4 - Técnica de visualização de dados (cores, tipo de gráficos, etc)    	   
+Aula 5 - Construção de painéis
 
 ### Estatística essencial para analytics
 
-* Papel da estatística na análise de dados
-* Tipos de variáveis e escalas de medição
-* População, amostra e amostragem
-* Medidas de tendência central
-* Medidas de dispersão
-* Identificação de outliers
+Aula 1 - Papel da estatística na análise de dados e na tomada de decisão prazo    	   
+Aula 2 - Tipos de variáveis e escalas de medição prazo    	   
+Aula 3 - População, amostra e amostragem    	   
+Aula 4 - Medidas de tendência central (média, mediana e moda)    	   
+Aula 5 - Medidas de dispersão (variância, desvio padrão, amplitude e coeficiente de variação)    	   
+Aula 6 - Identificação de outliers e distribuição dos dados
 
 ### Tech Challenge
 
